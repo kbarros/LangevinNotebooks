@@ -1,5 +1,5 @@
 # NOTE: For improved performence run this script from the terminal as:
-# >julia simple_simulation.jl --optimize=3 --math-mode=fast --check-bounds=no
+# >julia --optimize=3 --math-mode=fast --check-bounds=no simple_simulation.jl
 
 using Random
 using IterativeSolvers
